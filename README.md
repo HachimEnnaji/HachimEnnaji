@@ -2,22 +2,21 @@
 <hr>
 Welcome to my GitHub repository! I'm Hachim Ennaji, a Full Stack Developer specializing in C#, .NET, ASP.NET, React.js, Redux, HTML, and CSS. Here you'll find a variety of projects I've developed, ranging from web applications to code samples and much more.
 
+<br>
 
-Certainly! Here's a README example for your GitHub profile:
-
-Hachim Ennaji - Full Stack Developer
-Welcome to my GitHub repository! I'm Hachim Ennaji, a Full Stack Developer specializing in C#, .NET, ASP.NET, React.js, Redux, HTML, and CSS. Here you'll find a variety of projects I've developed, ranging from web applications to code samples and much more.
 
 <h2>Key Projects</h2>
-Project Name 1
+<h3>EpiShuttle</h3>
 Brief description of the project and technologies used.
 
-Project Name 2
+<h3>Linkedin Clone </h3>
 Brief description of the project and technologies used.
 
-Project Name 3
+<h3>Spotify Clone</h3>
 Brief description of the project and technologies used.
-Technical Skills
+<br>
+
+<h2>Technical Skills</h2>
 Programming Languages: C#, JavaScript
 Frameworks: .NET, ASP.NET, React.js, Redux
 Frontend: HTML, CSS
@@ -27,6 +26,6 @@ How to Reach Me
 If you're interested in collaborating or have questions about my projects, feel free to get in touch!
 
 Email: ashennaji@htomail.it <br>
-LinkedIn: <a href="https://www.linkedin.com/in/hachim-ennaji/">Hachim Ennaji</a>
+LinkedIn: <a href="https://www.linkedin.com/in/hachim-ennaji/">Hachim Ennaji</a> <br>
 Contributions
 Contributions and feedback are always welcome! Feel free to open issues or pull requests if you have suggestions for improving any of my projects.
