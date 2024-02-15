@@ -11,8 +11,7 @@ Other Tools and Technologies: Git, Visual Studio, npm
 How to Reach Me
 If you're interested in collaborating or have questions about my projects, feel free to get in touch!
 
-Email: youremail@example.com
+Email: ashennaji@htomail.it
 LinkedIn: <a href="https://www.linkedin.com/in/hachim-ennaji/">Hachim Ennaji</a>
-Website: www.hachimennaji.com
 Contributions
 Contributions and feedback are always welcome! Feel free to open issues or pull requests if you have suggestions for improving any of my projects.
