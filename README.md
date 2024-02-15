@@ -6,7 +6,7 @@ Welcome to my GitHub repository! I'm Hachim Ennaji, a Full Stack Developer speci
 
 
 <h2>Key Projects</h2>
-<a href="https://github.com/HachimEnnaji/epishuttles">Epishuttles</a> <br>
+<a href="https://github.com/HachimEnnaji/epishuttles"><h3>Epishuttles</h3></a> <br>
 Brief description of the project and technologies used.
 
 <h3>Linkedin Clone </h3>
