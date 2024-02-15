@@ -1,4 +1,5 @@
 Hachim Ennaji - Full Stack Developer
+<br>
 Welcome to my GitHub repository! I'm Hachim Ennaji, a Full Stack Developer specializing in C#, .NET, ASP.NET, React.js, Redux, HTML, and CSS. Here you'll find a variety of projects I've developed, ranging from web applications to code samples and much more.
 
 Technical Skills
