@@ -7,13 +7,13 @@ Welcome to my GitHub repository! I'm Hachim Ennaji, a Full Stack Developer speci
 
 <h2>Key Projects</h2>
 <a href="https://github.com/HachimEnnaji/epishuttles"><h3>Epishuttles</h3></a> <br>
-Brief description of the project and technologies used.
+simple React mini-game styled like "Space Invaders" where you control a spaceship dodging meteorites
 
 <h3>Linkedin Clone </h3>
-Brief description of the project and technologies used.
+Clone of the famous Social Network developed in React - Redux - Sass and Bootstrap when you can post, add/set or delete personal information with CRUD
 
 <h3>Spotify Clone</h3>
-Brief description of the project and technologies used.
+Spotify Clone in Javascript - HTML - CSS - Bootstrap  and Dezzer api, you can search albums, top singers and listen a track preview 
 <br>
 
 <h2>Technical Skills</h2>
