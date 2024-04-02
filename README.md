@@ -7,7 +7,7 @@ Welcome to my GitHub repository! I'm Hachim Ennaji, a Full Stack Developer speci
 
 <h2>Key Projects</h2>
  
-#[Epishuttles](https://github.com/HachimEnnaji/epishuttles)
+### [Epishuttles](https://github.com/HachimEnnaji/epishuttles)
     
  <br>
 Simple React mini-game styled like "Space Invaders" where you control a spaceship dodging meteorites
