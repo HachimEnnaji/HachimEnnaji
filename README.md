@@ -6,8 +6,8 @@ Welcome to my GitHub repository! I'm Hachim Ennaji, a Full Stack Developer speci
 
 
 <h2>Key Projects</h2>
-<a href="https://github.com/HachimEnnaji/epishuttles"><h3>Epishuttles</h3></a> <br>
-simple React mini-game styled like "Space Invaders" where you control a spaceship dodging meteorites
+<a href="[https://github.com/HachimEnnaji/epishuttles](https://github.com/HachimEnnaji/epishuttles)"><h3>Epishuttles</h3></a> <br>
+Simple React mini-game styled like "Space Invaders" where you control a spaceship dodging meteorites
 
 <h3>Linkedin Clone </h3>
 Clone of the famous Social Network developed in React - Redux - Sass and Bootstrap when you can post, add/set or delete personal information with CRUD
