@@ -12,10 +12,10 @@ Welcome to my GitHub repository! I'm Hachim Ennaji, a Full Stack Developer speci
  <br>
 Simple React mini-game styled like "Space Invaders" where you control a spaceship dodging meteorites
 
-<h3>Linkedin Clone </h3>
+### [Linkedin](https://github.com/HachimEnnaji/build-weed-react-redux-linkedin)
 Clone of the famous Social Network developed in React - Redux - Sass and Bootstrap when you can post, add/set or delete personal information with CRUD
 
-<h3>Spotify Clone</h3>
+### [Spotify](https://github.com/HachimEnnaji/BUILD-WEEK-II)
 Spotify Clone in Javascript - HTML - CSS - Bootstrap  and Dezzer api, you can search albums, top singers and listen a track preview 
 <br>
 
