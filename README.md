@@ -17,10 +17,16 @@ Clone of the famous Social Network developed in React - Redux - Sass and Bootstr
 
 ### [Spotify](https://github.com/HachimEnnaji/BUILD-WEEK-II)
 Spotify Clone in Javascript - HTML - CSS - Bootstrap  and Dezzer api, you can search albums, top singers and listen a track preview 
+
+Bloom Filter API
+A performant implementation of a Bloom Filter using C# and Minimal APIs. Demonstrates how to use probabilistic data structures for efficient membership testing with low memory usage.
+
+Order Management (CQRS + Clean Architecture)
+Implementation of the CQRS pattern combined with the Result pattern for an Order entity. Built with Clean Architecture principles using C#, this project focuses on maintainability, separation of concerns, and testability.
 <br>
 
 <h2>Technical Skills</h2>
-Programming Languages: C#, JavaScript
+Programming Languages: C#, JavaScript 
 Frameworks: .NET, ASP.NET, React.js, Redux, Typescript
 Frontend: HTML, CSS
 Databases: SQL Server, SSMS
