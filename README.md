@@ -12,9 +12,9 @@ A performant implementation of a Bloom Filter using C# and Minimal APIs. Demonst
 
 ### [Order Management](https://github.com/HachimEnnaji/OrderByCQRS) (CQRS + Clean Architecture)
 Implementation of the CQRS pattern combined with the Result pattern for an Order entity. Built with Clean Architecture principles using C#, this project focuses on maintainability, separation of concerns, and testability.
-<br>
+
 ### [Epishuttles](https://github.com/HachimEnnaji/epishuttles)
- <br>
+ 
 Simple React mini-game styled like "Space Invaders" where you control a spaceship dodging meteorites
 
 ### [Linkedin](https://github.com/HachimEnnaji/build-weed-react-redux-linkedin)
@@ -22,7 +22,7 @@ Clone of the famous Social Network developed in React - Redux - Sass and Bootstr
 
 ### [Spotify](https://github.com/HachimEnnaji/BUILD-WEEK-II)
 Spotify Clone in Javascript - HTML - CSS - Bootstrap  and Dezzer api, you can search albums, top singers and listen a track preview 
-
+<br>
 
 <h2>Technical Skills</h2>
 Programming Languages: C#, JavaScript <br> <br>
