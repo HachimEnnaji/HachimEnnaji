@@ -14,7 +14,6 @@ A performant implementation of a Bloom Filter using C# and Minimal APIs. Demonst
 Implementation of the CQRS pattern combined with the Result pattern for an Order entity. Built with Clean Architecture principles using C#, this project focuses on maintainability, separation of concerns, and testability.
 <br>
 ### [Epishuttles](https://github.com/HachimEnnaji/epishuttles)
-    
  <br>
 Simple React mini-game styled like "Space Invaders" where you control a spaceship dodging meteorites
 
