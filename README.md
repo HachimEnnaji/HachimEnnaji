@@ -21,10 +21,10 @@ Spotify Clone in Javascript - HTML - CSS - Bootstrap  and Dezzer api, you can se
 
 <h2>Technical Skills</h2>
 Programming Languages: C#, JavaScript
-Frameworks: .NET, ASP.NET, React.js, Redux
+Frameworks: .NET, ASP.NET, React.js, Redux, Typescript
 Frontend: HTML, CSS
 Databases: SQL Server, SSMS
-Other Tools and Technologies: Git, Visual Studio, npm
+Other Tools and Technologies: Git, Visual Studio, npm, GraphQL, gRPC, REST API
 How to Reach Me
 If you're interested in collaborating or have questions about my projects, feel free to get in touch!
 
