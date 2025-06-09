@@ -7,6 +7,12 @@ Welcome to my GitHub repository! I'm Hachim Ennaji, a Full Stack Developer speci
 
 <h2>Key Projects</h2>
  
+### [Bloom Filter API](https://github.com/HachimEnnaji/BloomFilter)
+A performant implementation of a Bloom Filter using C# and Minimal APIs. Demonstrates how to use probabilistic data structures for efficient membership testing with low memory usage.
+
+### [Order Management](https://github.com/HachimEnnaji/OrderByCQRS) (CQRS + Clean Architecture)
+Implementation of the CQRS pattern combined with the Result pattern for an Order entity. Built with Clean Architecture principles using C#, this project focuses on maintainability, separation of concerns, and testability.
+<br>
 ### [Epishuttles](https://github.com/HachimEnnaji/epishuttles)
     
  <br>
@@ -18,12 +24,6 @@ Clone of the famous Social Network developed in React - Redux - Sass and Bootstr
 ### [Spotify](https://github.com/HachimEnnaji/BUILD-WEEK-II)
 Spotify Clone in Javascript - HTML - CSS - Bootstrap  and Dezzer api, you can search albums, top singers and listen a track preview 
 
-### [Bloom Filter API](https://github.com/HachimEnnaji/BloomFilter)
-A performant implementation of a Bloom Filter using C# and Minimal APIs. Demonstrates how to use probabilistic data structures for efficient membership testing with low memory usage.
-
-### [Order Management](https://github.com/HachimEnnaji/OrderByCQRS) (CQRS + Clean Architecture)
-Implementation of the CQRS pattern combined with the Result pattern for an Order entity. Built with Clean Architecture principles using C#, this project focuses on maintainability, separation of concerns, and testability.
-<br>
 
 <h2>Technical Skills</h2>
 Programming Languages: C#, JavaScript <br> <br>
