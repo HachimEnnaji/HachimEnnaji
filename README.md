@@ -22,7 +22,7 @@ Clone of the famous Social Network developed in React - Redux - Sass and Bootstr
 
 ### [Spotify](https://github.com/HachimEnnaji/BUILD-WEEK-II)
 Spotify Clone in Javascript - HTML - CSS - Bootstrap  and Dezzer api, you can search albums, top singers and listen a track preview 
-<br>
+<br><br>
 
 <h2>Technical Skills</h2>
 Programming Languages: C#, JavaScript <br> <br>
