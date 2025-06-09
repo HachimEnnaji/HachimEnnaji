@@ -26,7 +26,7 @@ Implementation of the CQRS pattern combined with the Result pattern for an Order
 <br>
 
 <h2>Technical Skills</h2>
-Programming Languages: #C##, JavaScript <br> <br>
+Programming Languages: *C#*, JavaScript <br> <br>
 Frameworks: .NET, ASP.NET, React.js, Redux, Typescript <br> <br>
 Frontend: HTML, CSS <br> <br>
 Databases: SQL Server, SSMS <br> <br>
